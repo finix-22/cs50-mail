@@ -1,0 +1,26 @@
+body {
+    background: white;
+}
+
+textarea {
+    min-height: 400px;
+}
+
+.menu {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    width: 50vw;
+    height: 100vh;
+}
+
+.menu h2 {
+    font-size: 20px;
+}
+
+svg,
+h3 {
+    display: inline-block;
+}
